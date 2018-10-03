@@ -1,0 +1,12 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    	<groupId>org.crosswire.jsword</groupId>
+	<artifactId>jsword-pom</artifactId>
+	<version>1.6-stu1-SNAPSHOT</version>
+        <packaging>pom</packaging>
+
+        <modules>
+            <module>common</module>
+            <module>jsword</module>
+        </modules>
+</project>
